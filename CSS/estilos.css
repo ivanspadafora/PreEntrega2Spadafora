@@ -978,14 +978,14 @@ padding: 50px;
     }
 
     .footer{
-            width: 100%;
+        width: 100%;
     }
 
     .footer img{
-            justify-content: space-between;
-            float: right;
-            padding: 5px;
-            margin-right: 165px;
+        justify-content: space-between;
+        float: right;
+        padding: 5px;
+        margin-right: 165px;
     }
 
     .logo{
@@ -1007,6 +1007,4 @@ padding: 50px;
     .prigsH2{
         font-size: 2.8rem;
     }
-    
 }
-
